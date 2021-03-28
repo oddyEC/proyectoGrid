@@ -1,0 +1,15 @@
+:root {
+  /* Colores */
+  --soft-pink: #f38181;
+  --soft-yellow: #fce38a;
+  --soft-green: #eaffd0;
+  --soft-blue: #95e1d3;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-size: 62.5%;
+}
